@@ -1,16 +1,25 @@
 # Ramon Ferreira Barbosa
-| Desenvolvedor Front-End | React.js | JavaScript |
+| Desenvolvedor Front-End | Engenharia de Software | TI |
 
-Sou desenvolvedor Front-End e estudante de Engenharia de Software. Minha meta é ajudar empresas a alcançar seus objetivos através do desenvolvimento tecnológico, fornecendo soluções personalizadas e de alta qualidade.
+Sou profissional com sólida experiência em **tecnologia da informação, atendimento ao cliente e gestão de processos**, atualmente atuando no **SESC – Unidade Mogi das Cruzes**, junto ao **Núcleo de Tecnologia da Informação (TI)**. Minha meta é **alavancar resultados e soluções tecnológicas** de alta qualidade, combinando conhecimento técnico, metodologias ágeis e boas práticas de desenvolvimento.
 
-Por meio do uso de tecnologias inovadoras, metodologias ágeis e boas práticas de desenvolvimento, meu trabalho mantém alta qualidade. Acredito que transparência, comunicação e colaboração são fundamentais.
+Na minha posição atual, sou responsável por:
 
-- 🎓 Estudante de Engenharia de Software (Wyden)
-- 🌍 Ribeirão Corrente, SP, Brasil
-- Mogi das Cruzes, SESC.
-- ✉️ ramonferreira40@gmail.com
-- 🧠 Tecnologias: HTML, CSS, JS, React, Angular 15
-- 🤝 Aberto a colaborar em projetos de alto impacto
+- Implantação e manutenção de **infraestrutura de TI** (LAN, VLAN, WAN, Wi-Fi e servidores Windows Server / Linux Oracle).  
+- Administração de **Active Directory (AD), DNS, DHCP e permissões de usuários**.  
+- Implantação e gerenciamento do **Microsoft 365**, alinhado às diretrizes da gerência.  
+- Planejamento e execução de **treinamentos internos, palestras e eventos** para melhorar a experiência do usuário.  
+- Condução de **reuniões estratégicas com fornecedores e setores internos**, além de gestão de orçamentos e políticas de segurança.  
+
+Minhas experiências anteriores incluem **BB Seguros, Banco do Brasil e Magazine Luiza**, com atuação em **vendas, consultoria, atendimento multicanal e análise de indicadores de desempenho (FCR, CSAT, NPS)**.  
+
+Sou graduando em **Engenharia de Software pela Wyden** (conclusão em 2028), já formado em **Análise e Desenvolvimento de Sistemas pela Anhanguera**, e possuo formação técnica em Psicologia Social, complementando minha habilidade em alinhar tecnologia, processos e interação humana para maximizar resultados.
+
+- 🌍 Ribeirão Corrente, SP | Mogi das Cruzes, SESC  
+- ✉️ ramonferreira40@gmail.com  
+- 🧠 Tecnologias: HTML, CSS, JS, React, Angular 15  
+- 🤝 Aberto a colaborar em projetos de alto impacto  
+
 
 ---
 
